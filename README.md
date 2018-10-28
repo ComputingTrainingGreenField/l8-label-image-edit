@@ -18,7 +18,7 @@ git checkout label-gridlayout
 third step, open the code in Visual Studio Code and run it
 ```
 code .
-[debug and run from Visual Studio Code or tns "run android"]
+[debug and run from Visual Studio Code or "tns run android"]
 ```
 
 # NativeScript with Angular Tab Navigation Template
