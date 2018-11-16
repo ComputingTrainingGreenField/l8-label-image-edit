@@ -1,5 +1,5 @@
-## L* 11-16-2018 Sample Code Outline
-There are # branches with different code implementations. 
+## L8 11-16-2018 Sample Code Outline
+There are 3 branches with different code implementations. 
 - item-detail-edit: a basic editing support for item detail page using event handler
 - item-detail-edit-ngmodel: use ngmodel to simplify the two way binding for item detail page
 - item-detail-edit-image: dialog for image editing support
